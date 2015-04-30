@@ -1,0 +1,99 @@
+a:link { 
+	text-decoration: none;
+	color: #7519D1;
+}
+		
+a:hover { 
+	text-decoration: none;
+	color: orange;
+}
+		
+body {  
+	font-family: courier;
+	text-align: center;
+	background-image: url(tree.jpg);
+	margin: 0px 100px 0px;
+	border-left: 2px solid #D6C2AD;
+	border-right: 2px solid #D6C2AD;
+}
+		
+fieldset {	
+	background-color: white;
+	float: center;
+	text-align: left;
+}
+		
+figure {
+	text-align: center;
+}
+		
+figcaption { 
+	font-size: 10px;
+}
+		
+
+
+h1 {
+text-align: center;font-size: 80px
+}
+
+h2 {
+text-align: center
+}
+
+
+html { 
+  	background-color: #EBE0D6;
+}
+
+.map-canvas {
+	height: 500px;
+	width: 1000px;
+	margin: 0px;
+	padding: 0px;
+	margin: 0 auto 0 auto;
+	border: 2px solid #CFCFCF;
+}
+
+.newsblock {
+	overflow: auto;
+	height: 200px;
+	text-align: left;
+	margin: 15px 25px 15px;
+	background-color: #F5EBFF;
+}
+		
+.newsitem {
+	overflow: hidden;
+	height: 50px;
+	border: 1px groove black;	
+}
+
+table {
+	border-left: 1px solid #C1DAD7;
+	margin: 0px auto 0px;
+}
+		
+td {
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	background: #fff;
+	padding: 6px 6px 6px 12px;
+	color: black;
+}
+
+th {
+	font: bold 11px "Trebuchet MS", Verdana, Arial, Helvetica, sans-serif;
+	color: black;
+	border-right: 1px solid #C1DAD7;
+	border-bottom: 1px solid #C1DAD7;
+	border-top: 1px solid #C1DAD7;
+	border-left: 1px solid #C1DAD7;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+	padding: 6px 6px 6px 12px;
+	background: #99CCFF;
+}
+
+			
